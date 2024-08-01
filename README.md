@@ -1,6 +1,6 @@
 # Hii, I'm Pritam Wankhede 👋
 
-I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. Currently, I specialize as a Frontend Developer at ALOK INDUSTRIES SILVASSA, where I focus on creating seamless and efficient user experiences.
+
 
 🔭 Current Role: Frontend Developer
 
